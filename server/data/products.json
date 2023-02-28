@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Blender",
+    "description": "Good product",
+    "categories": "ELECTRONICS",
+    "isAvailable": true,
+    "sold": false,
+    "rented": false,
+    "rentType": "hourly",
+    "sellPrice": 500,
+    "rentPrice": 1000,
+    "datePosted": "27 August 2020",
+    "createdBy": 1
+  },
+  {
+    "id": 2,
+    "title": "Bed",
+    "description": "Good furniture",
+    "categories": "FURNITURE",
+    "isAvailable": true,
+    "sold": false,
+    "rented": false,
+    "rentType": "daily",
+    "sellPrice": 400,
+    "rentPrice": 800,
+    "datePosted": "27 July 2020",
+    "createdBy": 2
+  },
+  {
+    "id": 3,
+    "title": "Bed 3",
+    "description": "Good furniture",
+    "categories": "FURNITURE",
+    "isAvailable": true,
+    "sold": false,
+    "rented": false,
+    "rentType": "daily",
+    "sellPrice": 400,
+    "rentPrice": 800,
+    "datePosted": "27 July 2020",
+    "createdBy": 1
+  }
+]

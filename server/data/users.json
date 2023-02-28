@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "Akash",
+    "lastName": "Ahmed",
+    "email": "akash@gmail.com",
+    "password": "akash123456",
+    "address": "Dhaka",
+    "phone": "01816543287"
+  },
+  {
+    "id": 2,
+    "firstName": "Bina",
+    "lastName": "Rahman",
+    "email": "bina@gmail.com",
+    "password": "bina123456",
+    "address": "Chittagong",
+    "phone": "01816546287"
+  }
+]
