@@ -1,4 +1,4 @@
-# teebay-sazim
+# Teebay-Sazim
 ## Server
 ### Description:
 A web application server that acts as the backend. It is created with Node.js and handles queries using Express and GraphQL.
